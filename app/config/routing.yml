@@ -1,0 +1,8 @@
+shopping_mall:
+    resource: "@ShoppingMallBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
